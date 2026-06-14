@@ -1,0 +1,115 @@
+========================================================================
+         SMART WATER BILLING SYSTEM – INDIVIDUAL BILLS
+         Generated on : 14 June 2026
+========================================================================
+
+  Customer ID   : C001
+  Name          : Arun Kumar
+  Category      : Residential
+  Consumption   : 15.00 kL
+  Payment Due   : 2025-06-01  *** OVERDUE ***
+------------------------------------------------------------------------
+  Base Bill     : Rs.     350.00
+  Late Fee (5%) : Rs.      17.50
+  TOTAL DUE     : Rs.     367.50
+========================================================================
+
+  Customer ID   : C002
+  Name          : Priya Sharma
+  Category      : Residential
+  Consumption   : 35.00 kL
+  Payment Due   : 2025-06-10
+------------------------------------------------------------------------
+  Base Bill     : Rs.     960.00
+  Late Fee (5%) : Rs.       0.00
+  TOTAL DUE     : Rs.     960.00
+========================================================================
+
+  Customer ID   : C003
+  Name          : Suresh Raj
+  Category      : Residential
+  Consumption   : 80.00 kL
+  Payment Due   : 2025-05-20  *** OVERDUE ***
+------------------------------------------------------------------------
+  Base Bill     : Rs.    2970.00
+  Late Fee (5%) : Rs.     148.50
+  TOTAL DUE     : Rs.    3118.50
+========================================================================
+
+  Customer ID   : C004
+  Name          : Meena Stores
+  Category      : Commercial
+  Consumption   : 45.00 kL
+  Payment Due   : 2025-06-10
+------------------------------------------------------------------------
+  Base Bill     : Rs.    2450.00
+  Late Fee (5%) : Rs.       0.00
+  TOTAL DUE     : Rs.    2450.00
+========================================================================
+
+  Customer ID   : C005
+  Name          : Tech Plaza
+  Category      : Commercial
+  Consumption   : 120.00 kL
+  Payment Due   : 2025-05-15  *** OVERDUE ***
+------------------------------------------------------------------------
+  Base Bill     : Rs.    7925.00
+  Late Fee (5%) : Rs.     396.25
+  TOTAL DUE     : Rs.    8321.25
+========================================================================
+
+  Customer ID   : C006
+  Name          : City Mall
+  Category      : Commercial
+  Consumption   : 300.00 kL
+  Payment Due   : 2025-06-10
+------------------------------------------------------------------------
+  Base Bill     : Rs.   25150.00
+  Late Fee (5%) : Rs.       0.00
+  TOTAL DUE     : Rs.   25150.00
+========================================================================
+
+  Customer ID   : C007
+  Name          : Steel Works
+  Category      : Industrial
+  Consumption   : 90.00 kL
+  Payment Due   : 2025-05-25  *** OVERDUE ***
+------------------------------------------------------------------------
+  Base Bill     : Rs.    4100.00
+  Late Fee (5%) : Rs.     205.00
+  TOTAL DUE     : Rs.    4305.00
+========================================================================
+
+  Customer ID   : C008
+  Name          : Cement Ltd
+  Category      : Industrial
+  Consumption   : 350.00 kL
+  Payment Due   : 2025-06-10
+------------------------------------------------------------------------
+  Base Bill     : Rs.   20725.00
+  Late Fee (5%) : Rs.       0.00
+  TOTAL DUE     : Rs.   20725.00
+========================================================================
+
+  Customer ID   : C009
+  Name          : Power Plant
+  Category      : Industrial
+  Consumption   : 700.00 kL
+  Payment Due   : 2025-05-10  *** OVERDUE ***
+------------------------------------------------------------------------
+  Base Bill     : Rs.   48450.00
+  Late Fee (5%) : Rs.    2422.50
+  TOTAL DUE     : Rs.   50872.50
+========================================================================
+
+  Customer ID   : C010
+  Name          : Ravi Nathan
+  Category      : Residential
+  Consumption   : 0.00 kL
+  Payment Due   : 2025-06-10
+------------------------------------------------------------------------
+  Base Bill     : Rs.      50.00
+  Late Fee (5%) : Rs.       0.00
+  TOTAL DUE     : Rs.      50.00
+========================================================================
+

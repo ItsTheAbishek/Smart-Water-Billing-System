@@ -1,0 +1,26 @@
+{
+    "Residential": {
+        "slabs": [
+            {"min": 0,  "max": 20,  "rate": 20},
+            {"min": 21, "max": 50,  "rate": 35},
+            {"min": 51, "max": null, "rate": 50}
+        ],
+        "fixed_charge": 50
+    },
+    "Commercial": {
+        "slabs": [
+            {"min": 0,  "max": 50,  "rate": 50},
+            {"min": 51, "max": 150, "rate": 75},
+            {"min": 151,"max": null,"rate": 100}
+        ],
+        "fixed_charge": 200
+    },
+    "Industrial": {
+        "slabs": [
+            {"min": 0,  "max": 100, "rate": 40},
+            {"min": 101,"max": 500, "rate": 65},
+            {"min": 501,"max": null,"rate": 90}
+        ],
+        "fixed_charge": 500
+    }
+}
